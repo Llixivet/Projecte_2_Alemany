@@ -1,0 +1,13 @@
+footer{
+    background-color: rgb(172, 125, 216);
+}
+div{
+    font-style: oblique;
+    color: rgb(247, 73, 108);
+}
+body {
+    height: 100vh;
+    color: #1f1f1f;
+    background: linear-gradient(to bottom, #bada55, #c0ffee);
+}
+
